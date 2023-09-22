@@ -8,8 +8,7 @@ on:
 
 jobs:
   build:
-    # Using Windows temporarily due to a problem restoring the Mediator package using Linux.
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     defaults:
       run:
         working-directory: "./src/Cpnucleo.MVC"
