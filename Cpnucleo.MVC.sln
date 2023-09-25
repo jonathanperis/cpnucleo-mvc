@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cpnucleo.MVC", "Cpnucleo.MVC.csproj", "{C38D417F-2AEB-469F-9306-AC09525F54A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cpnucleo.MVC", "src\Cpnucleo.MVC\Cpnucleo.MVC.csproj", "{70F02DF9-2B3A-4731-A2AE-817219DEF3C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C38D417F-2AEB-469F-9306-AC09525F54A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C38D417F-2AEB-469F-9306-AC09525F54A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C38D417F-2AEB-469F-9306-AC09525F54A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C38D417F-2AEB-469F-9306-AC09525F54A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F02DF9-2B3A-4731-A2AE-817219DEF3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F02DF9-2B3A-4731-A2AE-817219DEF3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F02DF9-2B3A-4731-A2AE-817219DEF3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F02DF9-2B3A-4731-A2AE-817219DEF3C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
